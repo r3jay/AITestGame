@@ -35,19 +35,13 @@ All behaviors were built using UE4's AI tools (Behavior Trees, Blackboards, and 
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/hqdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID_HERE)
+**Soon to be added**
 
 ---
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="images/ShooterScreenshot1.PNG" width="45%" />
-  <img src="images/ShooterScreenshot2.PNG" width="45%" />
-</p>
-<p align="center">
-  <img src="images/ShooterScreenshot3.PNG" width="45%" />
-</p>
+**Soon to be added**
 
 ---
 
